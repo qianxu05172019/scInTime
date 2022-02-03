@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+scInTime.Rproj
+generate_networks/GSE137524_HNSCC_cells/remove_cell_cycle
+generate_networks/GSE137524_HNSCC_cells/results
+generate_networks/GSE137524_HNSCC_cells/task
+generate_networks/GSE137524_HNSCC_cells/data/data_original
+generate_networks/GSE147807_CMs/results
+generate_networks/GSE147807_CMs/task
+generate_networks/GSE147807_CMs/data/data_original
+generate_networks/GSE137524_HNSCC_cells/data/data_original
+generate_networks/zebrafish_hindbrain/results
+generate_networks/zebrafish_hindbrain/task
+generate_networks/zebrafish_hindbrain/data/data_original
