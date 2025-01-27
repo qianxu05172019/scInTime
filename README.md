@@ -5,7 +5,7 @@
 This repository contains the R code used for the analysis presented in the paper:
 "scInTime: A Computational Method Leveraging Single-Cell Trajectory and Gene Regulatory Networks to Identify Master Regulators of Cellular Differentiation" published in Genes 2022. The study introduces a novel unsupervised machine learning framework that integrates single-cell RNA sequencing data with trajectory inference and gene regulatory networks to identify key regulators of cellular differentiation.
 
-## Image Example
+## The analytical framework of scInTime
 ![Example Gene Network](genes-13-00371-g001.webp)
 
 ## Code Organization
